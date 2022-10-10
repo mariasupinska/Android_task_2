@@ -19,8 +19,7 @@ public class MainActivity extends AppCompatActivity {
             new Question(R.string.q_find_resources, false),
             new Question(R.string.q_listener, true),
             new Question(R.string.q_resources, true),
-            new Question(R.string.q_version, false),
-            new Question(R.string.q_test, true)
+            new Question(R.string.q_version, false)
     };
 
     @Override
