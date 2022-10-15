@@ -39,6 +39,12 @@
     </LinearLayout>
 
     <Button
+        android:id="@+id/prompt_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_prompt" />
+
+    <Button
         android:id="@+id/next_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
